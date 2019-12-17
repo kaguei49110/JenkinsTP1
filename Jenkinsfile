@@ -25,7 +25,6 @@ node () {
  				bat "mvn sonar:sonar" 
 			} 
  		} 
-}
 	
 	stage ('APP-IC - Deploy') {
 	withMaven(maven: 'maven') { 
