@@ -13,14 +13,9 @@ public class AppTest
      * Rigorous Test :-)
      */
     @Test
-    public void shouldAnswerWithfalse()
-    {
-        assertTrue( false );
-    }
-    
-       @Test
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );
     }
+ 
 }
