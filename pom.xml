@@ -89,8 +89,8 @@
 	</repository>
 </distributionManagement>
 	<scm>
-  	<connection>scm:git:https://github.com/kaguei49110/jenkins-sample-1.git</connection>
-  	<url>https://github.com/kaguei49110/jenkins-sample-1</url>
-  	<developerConnection>scm:git:https://github.com/kaguei49110/jenkins-sample-1.git</developerConnection>
+  	<connection>scm:git:https://github.com/kaguei49110/JenkinsTP1.git</connection>
+  	<url>https://github.com/kaguei49110/JenkinsTP1</url>
+  	<developerConnection>scm:git:https://github.com/kaguei49110/JenkinsTP1.git</developerConnection>
   </scm>
 </project>
